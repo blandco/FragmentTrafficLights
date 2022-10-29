@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fragment Traffic Lights EX3</string>
+    <string name="button_text">CHANGE SIGNAL</string>
+</resources>
